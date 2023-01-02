@@ -105,3 +105,4 @@ group :test, :development do
 end
 
 gem 'graphql'
+gem "graphiql-rails", group: :development
