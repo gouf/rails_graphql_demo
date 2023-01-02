@@ -103,3 +103,5 @@ end
 group :test, :development do
   gem "fuubar"
 end
+
+gem 'graphql'
